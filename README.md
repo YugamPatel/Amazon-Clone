@@ -21,7 +21,7 @@ Hey there, you absolutely fabulous GitHub wanderer! 🎩 GitHub told me my READM
 
 ### 🐑 Don't Clone Sheep, Clone Me!
 
-- git clone https://github.com/yourusername/amazon-clone.git
+- git clone https://github.com/YugamPatel/Amazon-Clone/tree/main
 
 ### 🚀 Take a Journey to the Center of My Code
 
