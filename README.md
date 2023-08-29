@@ -1,6 +1,8 @@
 # 🛒 Amazon Clone
 
-Hey there, you absolutely fabulous GitHub wanderer! 🎩 GitHub told me my README needed to be special, so I rolled up my sleeves, donned my wizard hat, and sprinkled a dash of pizzazz and a whole lotta laughs. Get ready for a README that's more entertaining than a cat playing a keyboard! 🐱🎹
+Hey there, you absolutely fabulous GitHub wanderer! 🎩 GitHub told me my README needed to be special, so I rolled up my sleeves, donned my wizard hat, and sprinkled a dash of pizzazz and a whole lotta laughs. Get ready for a README that's more entertaining than a cat playing a keyboard! 🐱🎹 <br><br><br>
+
+<img src="https://github.com/YugamPatel/Amazon-Clone/blob/main/amazon-clone.png"></img><br><br>
 
 ## 🎉 Why is This Amazon Clone the Bee's Knees? 🐝
 
