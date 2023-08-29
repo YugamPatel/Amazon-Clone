@@ -49,3 +49,7 @@ Hey there, you absolutely fabulous GitHub wanderer! 🎩 GitHub told me my READM
 ## 💌 Questions? Laughs? Existential Crises?
 
 - Why are you still reading? Go check out the code! Or, you know, drop an issue, make a PR, or send over some good jokes—or cookies. 🍪
+
+## 🛠️ Made By Yugam 
+
+- This spectacular mess was made by Yugam, the only developer we know who considers "Debugging is like being the detective in a crime movie where you are also the murderer" as a motivational quote.
